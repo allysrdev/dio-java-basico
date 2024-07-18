@@ -5,7 +5,7 @@ public class TiposVariaveis {
 
         int anoFabricacao = 2024; // tipo "int", nome "anoFabricacao", com valor 2024 (inteiro)
 
-        double salarioMinimo = 2500; // tipo "double", nome "salarioMinimo", com valor milhar 2.500 (ou 2500.00)
+        double salarioMinimo = 2500; // tipo "double", nome "salarioMinimo", com valor milhar 2.500 (ou 2500.00). Utiliza-se o ponto para separar o valor decimal.
 
         int cep = 21070333; // se começar com zero, pode-se necessitar mudar o tipo, pois o zero pode ser ignorado. ex: String cep = "02170333"
 
